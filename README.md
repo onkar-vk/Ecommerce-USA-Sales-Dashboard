@@ -2,7 +2,7 @@
 
 **Ecommerce USA Sales Analysis and Dashboard using SQL, Excel, Power BI**
 
-A US Based Ecommerce Sales Company wants us to create a sales Dashoboard showing information of YTD Sales and Generate insights for below scenarios:
+A US Based Ecommerce Sales Company wants to create a sales Dashoboard showing information of YTD Sales and Generate insights for below scenarios:
 
 **1. Objective:**
 The primary goal of this project is to analyze US-based eCommerce sales data to identify customer behavior patterns, optimize marketing strategies, and uncover revenue trends. The project also involves building an interactive dashboard to present these insights and assist stakeholders in making data-driven decisions. Solve below Problems as Follows:
@@ -39,7 +39,8 @@ This project analyzes a dataset of eCommerce transactions in the US, which inclu
 - YTD Sales= $ 11.53 M
 - YTD Profit= $1.34 M
 - YTD Profit Margin= 11.58 %
-- Top 5 Products by YTD Sale= staple envelope,staples,easy-staple paper,Staple in Misc., KI adjustable
-- YTD Sales By Region= South=16.17%, West=32.22%, East=28.42%, Central=23.19%
+- Top 5 Products by YTD Sale: staple envelope,staples,easy-staple paper,Staple in Misc., KI adjustable
+- YTD Sales By Region: South=16.17%, West=32.22%, East=28.42%, Central=23.19%
 - YTD Sales By shipping Type and Sales By state
 
+![Dashboard_image](https://github.com/onkar-vk/Ecommerce-USA-Sales-Dashboard/blob/main/Ecommerce%20US%20Sales%20Dashboard.jpg)

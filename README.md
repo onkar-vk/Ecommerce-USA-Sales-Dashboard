@@ -15,6 +15,7 @@ The primary goal of this project is to analyze US-based eCommerce sales data to 
 - YTD sales by region to know best and worst performing region all over country
 - YTD sales by shipping type to get the best shipping type percentage.
 
+![Dashboard_image](https://github.com/onkar-vk/Ecommerce-USA-Sales-Dashboard/blob/main/Ecommerce%20US%20Sales%20Dashboard.jpg)
 
 **2. Project Description:**
 This project analyzes a dataset of eCommerce transactions in the US, which includes sales data, customer demographics, product details, and monthly-based metrics. The project aims to:
